@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1508276935 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara\tp_3_cascara\funciones.c
+
+1508298952 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1508299015 c:\users\diego\desktop\tp 3 lab\tp_3_cascara\tp_3_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1508796438 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara - copia\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1508796438 c:\users\diego\desktop\tp 3 lab\tp_3_cascara - copia\tp_3_cascara\funciones.h
+
+1508796278 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara - copia\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508793738 c:\users\diego\desktop\tp 3 lab\tp_3_cascara - copia\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508796617 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508796438 source:c:\users\diego\desktop\tp 3 lab\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1508796438 c:\users\diego\desktop\tp 3 lab\tp_3_cascara\funciones.h
+
